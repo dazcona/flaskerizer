@@ -1,0 +1,7 @@
+Flask
+# Flask-Bootstrap
+# Flask-Login
+# Flask-Bcrypt
+# Flask-WTF
+# Flask-SQLAlchemy
+# Flask-Script
